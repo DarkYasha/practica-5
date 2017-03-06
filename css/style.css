@@ -1,0 +1,42 @@
+body{
+	background: url("http://vignette2.wikia.nocookie.net/disney/images/5/53/Negative_Zone.png/revision/latest?cb=20140510002518");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+header{
+	background: url("https://1.bp.blogspot.com/-RKB1d4DQMb0/UbidBypAG7I/AAAAAAAABBg/o5pHQ_icCOs/s1600/Sky+Anime+Landscape+29.jpg");
+}
+.img_head{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+h1{
+	color: white;
+	font-family: arial-black;
+	font-size: 49px;
+}
+p{
+	text-align: justify-all;
+}
+p, ol, ul{
+	color: white;
+	font-family: arial;
+	font-size: 16px;
+}
+section{
+	display: inline-flex;
+}
+h3{
+	color: purple;
+}
+h4{
+	color: red;
+}
+article{
+	display: inline-block;
+}
+#word{
+    font-family: fantasy;
+     color: darkgoldenrod;
+}
